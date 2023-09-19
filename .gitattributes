@@ -1,0 +1,9 @@
+phase1/challenge_0081_reduced_20 filter=lfs diff=lfs merge=lfs -text
+phase1/response_beacon filter=lfs diff=lfs merge=lfs -text
+phase1/challenge_final filter=lfs diff=lfs merge=lfs -text
+phase1/pot20.ptau filter=lfs diff=lfs merge=lfs -text
+phase1/pot_final.ptau filter=lfs diff=lfs merge=lfs -text
+phase2/circuit.r1cs filter=lfs diff=lfs merge=lfs -text
+phase2/initial.zkey filter=lfs diff=lfs merge=lfs -text
+phase2/*.params filter=lfs diff=lfs merge=lfs -text
+phase2/final.zkey filter=lfs diff=lfs merge=lfs -text

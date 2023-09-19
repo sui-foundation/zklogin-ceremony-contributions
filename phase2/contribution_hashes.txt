@@ -1,0 +1,689 @@
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading r1cs
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading tauG1
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading tauG2
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading alphatauG1
+[32;22m[INFO]  [39;1msnarkJS[0m: Reading betatauG1
+[32;22m[INFO]  [39;1msnarkJS[0m: Circuit hash: 
+		daf22585 6ad0ea9a 935e6f44 eaa8a181
+		6742899d 14bc2a54 5a757e01 db8dc358
+		48671dd0 43637d1e 4b12982a 4ab2737d
+		db301d7e 00164069 779bd6e9 2b867b76
+[32;22m[INFO]  [39;1msnarkJS[0m: Circuit Hash: 
+		daf22585 6ad0ea9a 935e6f44 eaa8a181
+		6742899d 14bc2a54 5a757e01 db8dc358
+		48671dd0 43637d1e 4b12982a 4ab2737d
+		db301d7e 00164069 779bd6e9 2b867b76
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #112 :
+		09f2da7f 81e4b69e 8ccf6f32 58b8f52a
+		5b7a1381 bdcafb38 97fb17fe 92632f1d
+		f97913cc 449f6df9 7c572ac7 105e5edc
+		bb6c78fb f1872e68 c166225a 6d8c465e
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #111 :
+		5c483249 2875c4e4 fa1758ce 888708d3
+		6f168b67 953c3484 650f7121 d2adea69
+		ac26f19f 0691c426 030ca521 c5db8b89
+		ef90702e f6e65ee4 51437f7c ad2c6f5f
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #110 :
+		3e5882f7 909e7c02 f9821193 a67cf1d1
+		b4b1b086 b8cb1a24 b20dc79b 99535f05
+		eabe768f c6533650 e319786c f6b687f0
+		fcadeb5b bf572e01 b2985419 23a5e92f
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #109 :
+		be376b3c 4dc8d0db 2d5fe5b1 b1271455
+		f4354376 7d8b4cd5 e47ae758 ac465b70
+		082e7bf8 00c316ed 31fd05fa fce7e318
+		19dbe2bd 85fd2636 9c3ee21b 542ac866
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #108 :
+		8b2c93ce d8b7d4bd 1ef54685 5d9c4d43
+		08278094 7aca760d 1f97a47f 154dee68
+		863fa1e3 a7df0134 9da431b6 fca96bf4
+		09ca77b7 b81c5c1c 213f72c3 57c4d627
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #107 :
+		9ab835a4 77f2dea2 f9562da1 0a199aea
+		6955c356 a0f46a65 e42d2a97 f93c8d87
+		99df09e4 d0a6af73 c0f8f994 2957ebfa
+		791ad097 43f2f499 fb635650 15c7198d
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #106 :
+		21e102a9 c900d488 946f360a f0bbc851
+		44611863 377edeb7 7e5d1798 84b33bc3
+		96f69936 76f23e1d 47606018 888ad81f
+		d38d4949 852c9e2e 44130386 295ace26
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #105 :
+		5b3b93cc 281033a1 557fb8af a5c8ca20
+		b505c5ff 54487845 bcfea03e 4c620eee
+		b964e4d4 f8dea848 476677c0 82c21069
+		19834fc3 88493e31 7826913e 1b14f907
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #104 :
+		9f254436 a2b56572 210aee94 ad2e93a6
+		6880e7bc 03030cca b0db859f 794fcfbe
+		a7abc8cb 2384cd19 38f89600 95d7a191
+		66ef69f5 d5a8020a 454e78fd 3a5f14fa
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #103 :
+		2c0c5121 b291869e f8d9a039 a0edf5ab
+		f794d635 4637c4bf 97edff01 10c55027
+		fe10497a 0a31e651 6409e105 8aad7bf7
+		37ac1c38 9729048b e3baf3b4 fdd2bc54
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #102 :
+		9d337a22 2226f47c dc695396 f87a4437
+		46eed0c9 3b5be6e7 78e67705 b19467f2
+		ff5c9746 04a2e77d d99c6c6d 8f894492
+		5328972f 9d84f49b 22c28a93 673af84c
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #101 :
+		4f050273 03ae33af 3a232dd4 3a3585e7
+		0005e7a0 2a735601 cf9ee6c1 ebb24a61
+		4bf210a0 573b9f26 228df5b0 682daeb4
+		e29fa26f 0cc19fad 51c975b3 764d19e6
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #100 :
+		cb814a7f 93ad1255 24a86bc3 ba33154d
+		a739fbb5 fcbb3846 6a19c05d 6e6a63f2
+		aebea863 fd14e8fb 98c42749 9da8eb9d
+		78b962c4 8f750e0f 5779dfd7 58400bd9
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #99 :
+		6efac370 793bab88 59a3afea eb7a9f96
+		845c0854 6573b2a1 f0643917 2e1578b5
+		2940660c deb0ff67 50431f41 efed03ed
+		9d3951bc 4cb55a09 16bc2ca7 ffa752cf
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #98 :
+		31c8415b d17219da 1ce77e84 943dbbf1
+		ccd4b8cf f45f5d27 40ae8744 218bbc19
+		14c46f11 10f047b7 67eaa4f4 13da9c91
+		32c0e8d4 88e350e6 b7b1e8ac ab181cf0
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #97 :
+		5eb309b2 02e894f5 50514988 e4c35348
+		bf21df43 678beca3 516b78c8 a73db5ad
+		c33646ec fc78577e daaa71e1 e9ec1d96
+		0a00ffe3 038d98e1 58f03d90 47437d32
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #96 :
+		acfa46df 66c8cce1 b115d334 96ce2874
+		18db90e7 e9b7984c 5d473e85 32f4d704
+		372cb3af 4200c129 c3e3dc03 7021a593
+		da3a7e29 f325d3d2 b20c2404 8d15dc9e
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #95 :
+		4e1a7370 0ebd66df d656be4e 87e8fcc9
+		1e3fa835 2e2090b9 95f49856 ad7e5c4b
+		4a236b47 32dedc4d 65b3e833 2ec756ab
+		382e95ef cfc68426 f269604b 03ee8dbd
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #94 :
+		7941448a 6b705229 b5070a86 df480482
+		40ff38bb 2c832870 1cc9d16c 19986551
+		82c9611b d937269d d00fe3da 50fa7012
+		f40d31b1 838745f7 37a432e9 51a49f94
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #93 :
+		7f19e91b 00c2ea73 eda5dd14 9f45d098
+		d078c0ff e513f61e 511916c1 5d371af1
+		c66c036b b8ae394e 0dc90d61 3f2b9816
+		e95a64e3 8267999f 83a589d4 76c2da4a
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #92 :
+		1e678513 17c4bf41 422fb29d a8a7bf93
+		767ea081 54525c74 e7f35ee6 f2ba90eb
+		2b09947d e723ccd1 d90b72cc abc95c24
+		5839d3f8 53ad62f4 879b01e3 07a56ce9
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #91 :
+		ba336239 a1f1de95 df486f1f 14e539df
+		6b9932f8 fc4e3ba0 b8eaf32d ad65738e
+		04afe7ce 5c55e2d1 1a168ff5 881206ad
+		5808a294 659ce4e1 2f443f60 777aece6
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #90 :
+		a2a1a03c f0ac4e0f 4fe30b38 e5ca57a4
+		e62034af dbe9ab64 68618429 3e92c8a3
+		e6f5e504 4eac762d e7d4d559 c06e7012
+		8f120ea8 29e9250c 7f16d382 9670b1e5
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #89 :
+		4a47424a 88b2e474 6ede9a92 8cc6be8e
+		2698ac9a 140921b4 d1395127 ef1e3dff
+		806da1de f54dedfa 0ad5c912 48b5fec6
+		2b154672 294accb1 7eeabcbb 513b60a7
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #88 :
+		1d6a4c61 0c16d882 c9e1f70d 76ee86ad
+		abb600fe 3b4a1e96 d9e16ce9 714d4cb3
+		db2419f1 47cf5030 781876bc 76e67729
+		49210442 112ece15 1e417276 0ca57431
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #87 :
+		1b267e87 d1683a02 3c59761a 180f6d7e
+		bec8efb6 1b60a5ca 873f0769 b8894d72
+		287e426e 55efe375 7f1a064f 7462383d
+		fba028b0 68ed951c 6e8a50a4 a009a43c
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #86 :
+		6b82174f 21efe486 e154a2b1 65ee9777
+		c0c8122c b9e456db fefe7b8c e1898334
+		6e5d709f defaf86c a7d1a0dc 32e19b55
+		23731118 b5f5a470 1aecb9f3 c7df2a9d
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #85 :
+		c790c6e3 80133eef 768d3636 ec83815e
+		f4e5419b 4ed9f991 ea4da3fd 75af7bcd
+		a939d5d6 ae14f8d6 5035f792 4c54a05a
+		90fd9d96 f490ccfe 33a00464 80d32852
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #84 :
+		82a19abd ff68017d e5437bfc 7169754a
+		a3f58931 2daf3abd b6739888 85d4ace1
+		6fdae138 384eb8ec 9328e948 c789011e
+		a5b8bb23 1fb4a220 88028a07 a2ab3545
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #83 :
+		aff76818 957e0f51 49cc647f bb7c65b9
+		b6334960 25d1b3f2 89615556 24e58fe1
+		5b29ade9 303fa2fe 4c336398 13a1a164
+		7184dcf1 e6ad4db5 86951a4a 848e36fd
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #82 :
+		43218a3a a28dd1a1 9bcefbe0 ba25999a
+		2934a2b7 a542db83 1dd845e5 b51b88ac
+		002b4c07 238dc530 6a04acf1 fa14769a
+		b0c94dcf fe620ee4 0f97a619 8ef0209c
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #81 :
+		b2274d9b ce96a151 cd26dd81 6672dbd3
+		e0708b4a f7093612 5023dbc1 f2463328
+		c0edec12 839ee838 48d35edf 81e95297
+		6d3445ce 537f7854 66302d28 f91ab852
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #80 :
+		3afae22a 4aa1ee46 f7111795 08c40d29
+		e9425a1c 721b9f12 cbd8e3c4 376dcb97
+		d223f298 5a977967 bed0859c fe1a7e82
+		e0263f22 89f736b4 ed207776 7303ed30
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #79 :
+		3c6ba337 94beb191 891371d1 d410b79f
+		48e9a926 25b75e2e 6c36f5d0 0ede0c32
+		b93fa63f 7f3a4dbe 6a6477f5 ff5c4ad0
+		88c29a26 fa26d97f 70159cf4 5b436df1
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #78 :
+		6b847da5 37ba51bf 527bbf03 87b40321
+		e68cde25 aa494cee 283201ae 162a3640
+		a79d3f1c e65a1f12 35b77173 170f1c22
+		c539846f 2c0e4b13 78393e44 e6bb4069
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #77 :
+		79340b37 6c1bbe04 a3849f41 a193b8b6
+		b389d31f 6dca2351 a078f994 a1230c72
+		166a47c0 f8403a39 452fc395 960dada8
+		0d828000 9339e28c c34d8ca6 133a3a2c
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #76 :
+		b46f9d05 156a7705 a431741f 7a44e235
+		0f16745c df27d8b6 8db1c0c5 c1656e81
+		629112cf 2d2a37a4 e319bfda ed097256
+		9907b9a4 ff344740 c7b6e057 ef29a525
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #75 :
+		68985657 af9af967 5661cdc7 a2b09898
+		b8881153 fe6ae7cb 1d9ee8b8 ee306792
+		a36e4506 5f432fc9 47e8a852 df72ec58
+		95a16661 4ad3052c b99373c4 aac016c1
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #74 :
+		874b16f9 0697bc51 e2a729b8 84ff1968
+		a1544d51 5a7abb90 38e6a430 ec8b86fd
+		5f83e1d7 8688b272 d362c67c c6ccd09b
+		fb088b2d d6ab35f8 7da5cabc 352428a5
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #73 :
+		a3d74b3f 9dce7705 10861072 11706555
+		41383813 43a721f6 efd45044 6e95086f
+		360d2291 fafb2a64 c3d31f06 6ed964c4
+		60bae001 1db3ad07 68f14ff5 d520f974
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #72 :
+		210af530 4dd06caa 6aa39799 a82122df
+		9ef3e0ee e081ee41 e4e96e44 352910a4
+		a84ae4bc 01c07d66 bdf0c0e4 aac75a33
+		5145ddd8 947abf56 b193b1f9 95554362
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #71 :
+		3608ec0a b355c196 add20cb6 3ffaceea
+		a69f96ce b11094f8 12bd0a21 a6e89d70
+		cd250784 40b10986 269b742a fc62caf9
+		1fb8c6d7 8ba8db1e 077cea61 472724a9
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #70 :
+		049b34a5 830cd228 50b7ab2d 7afc6a05
+		b6b94569 dabed65c b7445115 a1fc6d0b
+		940b1825 2415df5c c2208f1a 8634b08a
+		5250be52 af29d684 cba4fdef 66b14897
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #69 :
+		1707a664 1e2c9e37 ad7eca67 ac7b5c3a
+		7d6a8496 bd57157f 130dcc89 e1b1c4d0
+		239f76ab af77a6f9 50f65597 f3bf7a2c
+		dccfd23a 5e8fe4c7 85b038f5 89f85dbc
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #68 :
+		2c4debae e12a57b7 dc8ada31 3c9c4b62
+		2cd61475 689cf5d9 f1a25a62 938a31af
+		cc84adb6 4c5d9caf 560a990a 2b1af5a1
+		6c23310c 3368a7e5 a815dd81 72fd70b8
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #67 :
+		2f8080c1 0bfb974b c9eeb790 8523eb06
+		b034b5b9 12bde1e9 54393128 6589e792
+		baf425b0 ef42ff6e 6cb62d38 02abfc43
+		4c1f9a56 db32202c 3a0d0ab1 86551a6e
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #66 :
+		7ba5a822 b40668bf 858e3075 1fa011a7
+		abf7d654 59016e91 13a6584d aeb9e310
+		2f65135b 9e1634e3 2cc6decf 920b18dc
+		b201fc9e 675aef6e 6bb3330d 10799f8c
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #65 :
+		dc320dd2 f424f475 f65fbe89 ea1a98de
+		9632e914 d464c879 076463e5 41346636
+		059fd1de 0a860175 74db3160 866ee9f2
+		f5f354a4 3a7aa877 81581f81 fb667b00
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #64 :
+		c66674bf 14a61836 8c1cad05 5a33ebb1
+		e89a728f 9dcbbf80 88e58a7c 45989e03
+		f4b80c6f db92903a 9d39f08f 7f8a205c
+		8779b000 33edfde1 c5bb84b0 77115782
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #63 :
+		b37a5d69 e95d6c96 da2458ff 10691edc
+		e20e493c 8d69b23e 4779d2f6 298b61d7
+		9fe0f6e2 8e86cdd9 804624a3 5d0a8b64
+		e3152efc 7d6b691e dc9fa80b 70c366d3
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #62 :
+		aaffc573 506f094c 69dd8043 2fa55caa
+		379e4163 569376f5 7128130c 5e39d2b8
+		be486380 68b2ef59 a45b6371 0853353f
+		04f4ac6d 4cfaba1b 2b134348 137b0bfc
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #61 :
+		a5cd0826 277c83bd 50b0e418 e04adc08
+		6a9ce58a 7af3c711 66a16677 235c2ea9
+		497f9531 8a9cf51d 26ffc942 e77228dd
+		1e81d90e da91201d d1cd8c93 647ddfc4
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #60 :
+		5f8f9c80 d894b161 5c87968f a63294a9
+		89c1f5ad 751c8c47 9ae82e16 129b33a1
+		a2c0fc9d d5679404 5eddc23a 1573a2e0
+		091a3f97 588a28e6 5e9dc454 e5f02c47
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #59 :
+		3db14e83 a63003d3 a0979275 5cf1cedd
+		b23a98c3 7f5932a8 379d67a9 70db7c9f
+		0acd5381 55ab58a7 c7f05a88 74b46d2b
+		2292e0aa 0d6a56c6 6c9459dd b34e641e
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #58 :
+		47b052a9 a25cd77b 430c2bab 1d5025ba
+		9c3eb0b8 7d28b130 4b05afee 49d802c5
+		ac65ba8a a4d22609 134afdf1 ad55e719
+		6e0471e5 864bc324 7505922c e94143c6
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #57 :
+		e029db49 b0828de0 d1461886 10fa816b
+		6583682c 7d669917 0c96ec6c 71b0f8c2
+		46328f77 8ff7e1ac 3e87dcde 4e65f4b4
+		a00bac63 f3af6f70 2b14ef10 27aac307
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #56 :
+		e197de54 93ab6667 aa9ed2e1 bd8b1b0d
+		2e3889c9 31a5a57d 16ff6ed9 f72b1b6a
+		29a08db8 3db8f519 a383badb dc683ddc
+		44cce1fc 54e6d4b2 0a778c1e 5cf5aa74
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #55 :
+		aaf62742 f5888c60 5350bba4 58ee6b8e
+		bb4f9e53 4d77eb51 2926ba4d f79fef91
+		08d0fbde 57e7de93 94685e23 15b3a2d1
+		65c69ee6 1a6d7ee3 31901e29 c9bcb792
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #54 :
+		6dd21c8f 8a973c4b 067e3f3a 825d3a00
+		62d4b690 835737ba 14b0f0e5 e2270c02
+		eb287832 7bae76d6 307ff012 6e79f512
+		4660b39f 9efc7173 69e6957e f4c730a6
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #53 :
+		3df2bacd 2ec746a4 ba252875 d388eaf6
+		c359645a 9a6d124b c1fffc06 295a7367
+		edf8ca18 107afbe8 dbeca6e7 cf15be2c
+		92d692bd 2a737931 bccf7c26 782bd5ca
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #52 :
+		b2795092 0bfd2906 09ee24b9 534900e0
+		fa978085 68dbc8c8 d11ab7f2 6a8d4d8b
+		96d7d07b a0f11d49 7a46274f ff2fdea7
+		88f7b6a3 b7d2846c 24c234cc a8d3a8ac
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #51 :
+		32c63847 6b7fccb0 1fc18bdc 60bbfd43
+		a71156c0 6c4df7a7 8689a41b c9767f86
+		a705d5ca abd9253c aa615cb6 b7682c4d
+		c07a7d02 e00fb406 a3cdc613 2de73e5e
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #50 :
+		922eac23 f0157e2c 7df14938 c8dd03f0
+		4c536e51 dba560c4 ac952554 56836e50
+		94830a4a 2b801d67 24519b81 f884548d
+		62a8b84e 5666e4a4 7ba74b03 60dcc7f7
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #49 :
+		722ef279 9b104802 25b057c1 b971bfa5
+		9ae32fa3 9831045b fd9774bb d8735800
+		21007fad a99dde29 796b6a55 cebc1382
+		56c6b757 8b46c691 6b7affea c926fc62
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #48 :
+		e357969c 0f5de738 c5fc51a3 13ff99ce
+		2b33ee76 9b16995a 7862df1d a05c6efc
+		6ded2f9b 5b552e1d fd443b21 2703974f
+		866189f1 90ecd4e1 52ff35ac 588876be
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #47 :
+		81d656d6 6a7cd853 7e1256f2 0f6d676e
+		72bedb21 7742b8c9 bd56a34f 02e1b7d1
+		a0cc023c 00e35488 2998af8f b4477655
+		b66ae863 14ceb890 c91bd9cc dd0b64a8
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #46 :
+		c6795036 bc5594db 6eea790e b5cf0de1
+		0cc02ccb f338eefa 0d49cd07 e3515f63
+		c2a908ca fec07b00 32105912 f72213f1
+		b9a224a6 260a8822 15d520e2 b673201d
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #45 :
+		41657b7a dff1227e 7990cb5f 912023b7
+		bb36e44d c5ced648 89139648 a4c17a0a
+		6bcd19a4 35e5051f 1b89c899 f2d6b1e3
+		c06ce5ed f7402272 551dd626 355579c6
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #44 :
+		57ca593e 08d8e46b 27f36552 77e750dc
+		3edcc639 85bc1778 9049ac62 79e4abdc
+		fa22aa7e dff7b6c0 995dbf05 dc759d0a
+		f90db289 243d5744 4b9f74a8 75588770
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #43 :
+		f26c6182 2c9aefac 91e392f5 36d19413
+		96df910d 7bf4f7b6 b5af11f5 a06eaa10
+		d4888ed2 9adc279c 01a92f5d 6ac07428
+		eb43dc00 b2f9b981 04f56edf 41ce8048
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #42 :
+		33125653 1585cf99 f62939dc 4cec6f9c
+		3e252770 e5b553cd 5bb8e92a 74679f2e
+		e1677f6c 718be6b5 598f74ef 9be75f4d
+		223a7904 e4144972 b3dcac6c c64407a4
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #41 :
+		62099ef4 f7c5c2ab 15566a05 56b3ee6e
+		64b8c92a 1de0e6e1 bc3bb3ec 9118e12a
+		52ac0a74 5bcdb299 d4cdf56f bba7bbdc
+		050cf825 ddfa9b4b 530884dd eb88a080
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #40 :
+		0c7f05b0 86034844 92f01305 0179e6f7
+		c377bee9 e3518312 cec9d360 40d82446
+		3c68491f b1f51ec0 485129bd dbb4acc2
+		750f839d 33e18241 91cbe999 1626209c
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #39 :
+		657b1ad5 be83f3dd bacd713d e81ae192
+		1342ab5d 0f551a0b 13d5f47d 61181af4
+		764e0d03 2ae80132 da687695 b221631e
+		f9630a78 baf4fc72 c51e3379 a14f302f
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #38 :
+		50bf9185 0455e19b 6bd48f34 76d94033
+		11063cea 6b252d3e 73a30a94 7a10600b
+		268fbf72 f4f925b3 60e2dac3 32485088
+		8b80a0c9 7101faee be102372 dba5ddac
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #37 :
+		1c8e2299 00dc9891 c15baeda f937b27b
+		f85abac1 a83542a1 5f4b33b5 0e2ffe39
+		6cac2c3f 91c1d942 703e83f2 a61223fe
+		845e1e54 a36fe06c 5f097220 a30b450d
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #36 :
+		fde350a6 32a9e6cf a07209a3 351096e6
+		72dc8505 e31d0d43 22eaf0fe 104ff55a
+		9fb86910 6f8ae7cb 634a4ee7 ee511deb
+		90075cd1 ebc89fa2 6bf5fd87 88b5ed63
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #35 :
+		d49bdd45 9d290666 84cc011b 5119e93e
+		18735a6e c9aa5f10 b6c5ba43 ceb79792
+		b51844e0 776f5990 da7ee2d0 1bdc5657
+		19aafb4c 368bd2ff 3fa5f95f e337294d
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #34 :
+		dea6011a 15200e5b a81a1cc0 ab30f539
+		25a2e450 82f71f3e 801094f4 93f704d4
+		8372fcc9 da756230 086ebfed 727ccb4c
+		957496e8 4f5b6c0f b1921c7f 7f5ca230
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #33 :
+		a5592380 626908fe 1fbd3224 a4d86948
+		ecc60c96 3176d615 10f91e86 7c89ef8e
+		c935ea77 16d28cbc 875931b7 dd74e8ef
+		4f00385c bdf16e0f 2121c8cf 8f98b684
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #32 :
+		ce3b8d6b 3fea6d5c d0682860 2f906903
+		7287ad54 3511d370 04894057 e8b570ba
+		962062a9 5d2304fb 20db337e d052ef50
+		8011397d 3c15e5f1 fde080b4 d29371fa
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #31 :
+		1b8a2a2a d79a69d4 843c7cda c8120e4b
+		05734f4a 891d1401 ef9fa210 741d91c3
+		3b79ee8f 805362c0 b2705bff e80267e7
+		4d341029 97b39973 d3f07c81 f97019ee
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #30 :
+		7cf893f6 efdcfc73 cb964913 2a69f546
+		a4b5749c 0dddde34 0b92c767 859fde1d
+		fdb78def ecd42732 cabcfcb8 86a39eb1
+		097f27fa 1c20c90a 9436f933 0650a824
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #29 :
+		7fcdf73c 6b3c2ccd 982cd600 d3d71741
+		23fb167d d4b6da72 45fda7d5 433d346f
+		746deab2 8491ae92 8a5446a8 ecd2e288
+		409b2ac3 7d8f1cdb 51551ee8 d03acd44
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #28 :
+		df1fe986 b629d793 b6a0203c 8177deb4
+		6f0b2b9b 792a5a77 3a446215 304ed732
+		16c1ed0a bc2fa3f4 b3bd2c94 98fb7f3b
+		1acd5533 53d23908 daae8666 4f519afc
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #27 :
+		13c98224 aca3bdb2 9118ccef 8742990f
+		d803dc54 0529aee7 b97dfd62 3115ff1f
+		8b5cc6b1 5ea1a877 c5d402d8 bb64f931
+		1f9e8e3c 656eb5d9 637e302b 9c5b0a92
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #26 :
+		c1e44a31 ccbf2780 85ffc493 a4d031ae
+		e44bd55d ff591ff1 9d5152c6 e8d7da88
+		43d21637 5776391c 8416a24e c314fe28
+		b548b467 03458326 eb918f0e face56b8
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #25 :
+		e3d69ed5 5468bd8a 6c58f6ca 6e4f8b48
+		5396393a 7c94cf32 ccf2149a fd2d9edf
+		f526fc20 a929aec7 7d63e8d6 f3b78c3e
+		88f9fc12 97dc674b ec25b19f 014eef19
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #24 :
+		bd287439 bf9ea355 ec305065 3c6dca41
+		a6a5c1ae 027dc73a 9777175d 41213fe4
+		ff26b96a ff3317bc 9be1ef1b 5347bee1
+		7bbabee8 dcc300f2 c436922d f47694f5
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #23 :
+		26dba8ce 97092aa7 03283236 51d7afbf
+		1a16ae4a 4f92be73 fa88da7e 33ac84c6
+		6416f6bf de516aee 9065c7f0 40907c6c
+		8e550b7f 0eca43e2 eb936771 00098b19
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #22 :
+		1e75f033 d0620fa6 0dc4c8df eed0e769
+		c3a51c58 48188cd2 4e77b595 b6e6f251
+		95095c34 64cecb0f d03cef53 9d77dadf
+		b427895e cafe8bab 6a18910b 68c7c289
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #21 :
+		58e8f521 a9e98605 22640c23 760bb3ac
+		5ecd7a64 2fc19346 30c3c2b1 9973f735
+		73d5d5c9 5beca811 96974676 b50ca4d3
+		8836c9c8 90bcc94b 088da8d7 e70bd8e3
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #20 :
+		e1e5daa9 534ab841 8f7db34e 2b651804
+		2ffd0357 f9b88942 d8671827 2eef16ad
+		de2464e4 44e81510 e04cc440 52bcda82
+		fc2f7d85 46776271 cf123050 f7a84a27
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #19 :
+		78cec64d 26053bb1 106e7ef8 09f1e961
+		f248213c 1c05ec7b 658e9b14 7468e1a0
+		a4e45acf b4c2bbd2 3314898e 6afc0a35
+		548469cd b1e65fe4 19ec26da 9254abae
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #18 :
+		a5e6287e 38017eeb b603fc44 6724baba
+		e8095272 ea068080 f126bf17 89e1e1e5
+		1dda8df0 a6cbca00 4444e6c1 e575501d
+		953a97e8 6c991c6c 24392359 1d89b9f4
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #17 :
+		37e11024 6b7043ec 6e0e69ff 4dd70c88
+		5dd6c593 0e8c61da 2b52895e 40647a75
+		f8cec221 03370be3 b71d336c 601eed23
+		c8a2d073 b5201aa4 c7989afe b9e208f8
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #16 :
+		76aa0d72 e40e1216 c3556032 90e41cf7
+		cad82881 6b87ee9d 626741fb 80668bb4
+		6610359e 4294d112 d76ea8b3 38e71fce
+		51bff14f e4cb19e7 f0ee8402 2b0cc51e
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #15 :
+		00bbb286 29da9f36 345c46d7 0df871fb
+		56306c34 01e7505f d76feb18 3deecc65
+		877c2c09 124a702f 274d098a e4392234
+		2fe8387d f7c3568e 1ccd8e97 18bba349
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #14 :
+		81e9b2b2 e94e95f0 f946fef9 cff892b3
+		a811ac79 de5855fc ec2b33fd 9f317352
+		9d322b23 a8c14db6 1a9db892 19954d3b
+		b964a948 324d0d07 0777e169 f008ac8e
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #13 :
+		6be63808 e1896729 b9859d89 3919dc4b
+		43b4687c 7b8d5e5f 98e86c57 f75f737d
+		290e3656 250044cc 7748c6af dbe60e65
+		663e42eb 41006e24 1ae8506d 56f2380c
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #12 :
+		e7d49a86 4d6f38ea 48b248b6 ec70f805
+		e0c18ed5 73b22158 10d344d6 09f207fb
+		3e2baccc 65082213 260f7e71 05030a36
+		c1486ef6 27f38216 fdee6f79 8346fb0d
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #11 :
+		8456accb f7ab7e7c 00342c31 c07f9c99
+		a18721f8 e1421990 5fb42f43 130cd03b
+		f0ff2d08 acf416e0 bcaf1ea6 da9c956b
+		f5776400 e4bbda3f 9d37d4e4 ef243c70
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #10 :
+		5d6f6e0e edd89e37 63393f18 97b1b27e
+		6e02e2a0 0aaf0851 b4c4c538 5b3dd8f1
+		825debea bb247747 63d3e1d9 2f87376d
+		e49f5788 a19a464c 6011cba5 f2dd5958
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #9 :
+		5719136b 28c86507 e12e2247 dd4231c9
+		67adeb30 7ed42f85 a741dfc6 bf3db9cf
+		53eb29ae c9c335cb 424e85fa 6332d2fa
+		9c6831ad 2b54b0eb 2d810998 d0214897
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #8 :
+		e3d37363 66725118 97d888b5 b08bb1bd
+		22ef6158 b4c58c7d bcc6c7b8 fa756023
+		0733fd80 1c4fd67c d419c8e6 2ad02a49
+		59cc56d8 a7b2c827 7adce871 2cbd56b4
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #7 :
+		dea75a7e 1fe02a30 096920a7 196560b0
+		9c004a8d 61e7784b 31c7c39f 4e2af478
+		3f0ab190 3b1eb42f 51c0e4c0 d6194d00
+		e4edea76 160ce8c6 941775e8 f01efc2d
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #6 :
+		18d213d3 6403ef1e caea9381 e0a6010f
+		651d1acd 80ea6bf8 a8020c25 d3f14bd0
+		1460e353 03313b0a 2637bf12 698aee4d
+		9ec0f1bc 1c1488ea 0a7d05fe 25d5a3b5
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #5 :
+		84931ae7 0b1e224a d72affb3 6fadc8a4
+		f9793639 12128fd2 cebc2a4a 41584a53
+		fc25e9e2 16c24f06 dd3467e6 f8c1f6f0
+		37b755dd 6b6a5b98 c7bb7ee0 88a15f09
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #4 :
+		fa74ca3b ccbbaf36 bcf2983e d0d65e57
+		7e909ebe 0f84524a a3e62f9d d8fc903d
+		fd4cf531 e1ca3a26 1af211f3 2ad8e805
+		40a3c9e7 91a7d59f 600ba12f ca560664
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #3 :
+		65a8e58f 33c25e9f 1306dfdd cc0fdddd
+		34074f00 2c55c52e bcbd3d33 dd734bb9
+		c4d37855 16519b3d c77c7628 5d754f98
+		090b78ba 70bb1eef a578ef49 bb549c76
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #2 :
+		9d21d3a4 f54b4a37 f109a28b 8259eb38
+		df1822c0 5d8ccede e4f1351c 646892d8
+		c88332f8 e5ac16e9 87097224 537e013d
+		7e54a084 fef08f93 15c43ebd 741c29df
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: contribution #1 :
+		b6bef679 87558ffc 5ebc0f4b 79cab3fb
+		c8f2c4c6 b283bf7a 2b860b1a 777aef52
+		2673074c 0ef4b0cb e564cabb f4b8c7db
+		d04e86b0 0e13c5c3 a5a3f22a 0299a013
+[32;22m[INFO]  [39;1msnarkJS[0m: -------------------------
+[32;22m[INFO]  [39;1msnarkJS[0m: ZKey Ok!
