@@ -15,6 +15,6 @@ Eventually, we applied the output of drand #3320606 to remove bias from contribu
 All intermediate files can be reproduced following instructions [here](./phase1/README.md) for phase 1 and [here](./phase2/README.md) for phase 2.
 
 
-## Acknoledgement
+## Acknowledgement
 
 We thank all who participated in the ceremony. Here is a list of participants, who consented to publish their names: [here](./contributor_list.tsv).
