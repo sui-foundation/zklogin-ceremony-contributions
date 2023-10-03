@@ -19,6 +19,7 @@ All intermediate files can be reproduced following instructions [here](./phase1/
 
 We thank all who participated in the ceremony. Here is a list of participants, who consented to publish their names: [here](./contributor_list.tsv).
 
+```
 Contributor's name (by alphabetic order)
 Aditya Kumar Verma
 Antoine C
@@ -109,3 +110,4 @@ Yan Ji
 Yi Lu
 Yobi
 Zhijie
+```
