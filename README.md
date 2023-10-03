@@ -18,3 +18,94 @@ All intermediate files can be reproduced following instructions [here](./phase1/
 ## Acknowledgement
 
 We thank all who participated in the ceremony. Here is a list of participants, who consented to publish their names: [here](./contributor_list.tsv).
+
+Contributor's name (by alphabetic order)
+Aditya Kumar Verma
+Antoine C
+Ari Juels
+Arnab Roy
+AstroStakers
+Avradip Mandal
+Ben Riva
+BlockVision
+Brian Long
+Brightlystake
+Charanjit Jutla
+Charles Dou
+Chuck Veenvliet
+CryptoJack
+Dahlia Malkhi
+DAIC GmbH
+Daniil Khyzhniak
+Danny Sim
+David Wong
+Deepa Sathaye
+Deepak Maram
+DenysK | Stardust Staking
+Don Beaver
+Ducca, Staketab
+Evgeny Garanin
+Fan Zhang
+Fausto StakingCabin
+Flavian Manea
+Foteini Baldimtsi
+George Digkas
+Greg North
+GV
+Hart Montgomery
+Hyunggi Kim
+Ignacio
+Ioannis Ioannidis
+Ivan Merin
+Jasleen Malvai
+Jens Groth
+Jeonghwan
+Jeongseup, Son
+JJuunee Zhang
+John Mitchell
+John Youngseok Yang
+Joonkyo Kim
+joy wang
+JulI0 | Latitude.sh
+Junji Hashimoto
+K | BartestneT
+Karthik Kalyanaraman
+Kevin | Staking Defense League
+Kevin Lewi
+Kevin Yu
+knox hutchinson
+Kobi Gurkan
+Kostas
+Lai Yutung
+Luka
+M3dium Rare
+Mahdi Sedaghat
+Marco Broeken
+Masayuki ABE
+Max Sherwood
+Michel Abdalla
+Mikhail
+Miranda Christ
+Moonlet
+Muhammad Elsayeh
+Nelrann
+Nick Sullivan
+Nicolas Ochem
+Nikita Pashkov
+Ola Muse
+Peihao Li
+Philip Glazman
+POH YONG HWANG
+PONGCHAI TANGBOWONWEERAKUN
+Rohan Murukutla
+Roman Osadchyi
+Sergey Ilin
+Tiago Machado
+Wade Abel
+Wenyi Huang
+winlin
+wizardfiction
+Yan Ji
+Yi Lu
+Yobi
+Zhijie
