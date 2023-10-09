@@ -77,28 +77,29 @@ cargo run --release --bin verify_single_contribution  phase2_111.params phase2_b
 ```
 
 ## Bellman import params file to zkey
-To import the final zkey file after the ceremony, run
+To generates the final [proving key](../zkLogin.zkey) after the ceremony, run
 ```bash
-npx snarkjs zkey import bellman initial.zkey phase2_beacon.params final.zkey
+npx snarkjs zkey import bellman initial.zkey phase2_beacon.params zkLogin.zkey
 ```
-The BLAKE2b hash of the final zkey file `final.zkey` is
+
+The BLAKE2b hash of the final zkey file `zkLogin.zkey` is
 ```bash
-$ b2sum final.zkey 
-060beb961802568ac9ac7f14de0fbcd55e373e8f5ec7cc32189e26fb65700aa4e36f5604f868022c765e634d14ea1cd58bd4d79cef8f3cf9693510696bcbcbce  final.zkey
+$ b2sum zkLogin.zkey 
+060beb961802568ac9ac7f14de0fbcd55e373e8f5ec7cc32189e26fb65700aa4e36f5604f868022c765e634d14ea1cd58bd4d79cef8f3cf9693510696bcbcbce  zkLogin.zkey
 ```
 To verify the final zkey file and get a record of all phase-2 contribution hashes, run
 ```bash
-npx snarkjs zkey verify circuit.r1cs ../phase1/pot_final.ptau final.zkey
+npx snarkjs zkey verify circuit.r1cs ../phase1/pot_final.ptau zkLogin.zkey
 ```
 The verification result and all contribution hashes (beacon contribution listed as #112) can be accessed [here](./contribution_hashes.txt).
 
 ## Export verification key
 To export the verification key, run
 ```bash
-npx snarkjs zkey export verificationkey final.zkey vk.json
+npx snarkjs zkey export verificationkey zkLogin.zkey zkLogin.vkey
 ```
-The BLAKE2b hash of the verification key `vk.json` is
+The BLAKE2b hash of the verification key `zkLogin.vkey` is
 ```bash
-$ b2sum vk.json 
-3a5e86d2d4ed16032f88bc2af892012c010f230cc99a80c691e29653c45af048b1679997e1e1a937a97ce683a6cbcb43689f95ae7ec5a9a206e8052abf9bc161  vk.json
+$ b2sum zkLogin.vkey 
+3a5e86d2d4ed16032f88bc2af892012c010f230cc99a80c691e29653c45af048b1679997e1e1a937a97ce683a6cbcb43689f95ae7ec5a9a206e8052abf9bc161  zkLogin.vkey
 ```
