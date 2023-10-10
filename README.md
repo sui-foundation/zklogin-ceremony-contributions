@@ -2,6 +2,17 @@
 
 This repository enlists all trusted Groth16 Zero Knowledge Proof (ZKP) ceremony contributions for generating a Common Reference String (CRS), required for the [zkLogin](https://sui.io/zklogin) project. The ceremony was successfully hosted by the [Sui Foundation](https://sui.io/about). As recommended for every trusted ZKP setup, this repository enables participants to verify their contribution was applied correctly in the chain of sequential contributions, while everyone can verify the final CRS output, which is in turn used to generate zkLogin's proving and verifying key, respectively.
 
+## Downloading files
+
+1. Install [git-lfs](https://git-lfs.com/) to download any large file.
+
+2. It is recommended to only download specific files of interest. For example, to download the proving key (`zkLogin.zkey`) run:
+
+```bash
+GIT_LFS_SKIP_SMUDGE=1 git clone git@github.com:sui-foundation/zklogin-ceremony-contributions.git
+git lfs pull --include "zkLogin.zkey"
+```
+
 ## Contributions format
 
 We adopted [challenge #0081](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) (resulting from 80 community contributions) from [perpetual powers of tau](https://github.com/privacy-scaling-explorations/perpetualpowersoftau/tree/master/0080_carter_response) in phase 1, which is circuit agnostic.
