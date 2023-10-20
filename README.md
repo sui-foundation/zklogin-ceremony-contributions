@@ -6,12 +6,7 @@ This repository enlists all trusted Groth16 Zero Knowledge Proof (ZKP) ceremony 
 
 1. Install [git-lfs](https://git-lfs.com/) to download any large file.
 
-2. It is recommended to only download specific files of interest. For example, to download the proving key (`zkLogin.zkey`) run:
-
-```bash
-GIT_LFS_SKIP_SMUDGE=1 git clone git@github.com:sui-foundation/zklogin-ceremony-contributions.git
-git lfs pull --include "zkLogin.zkey"
-```
+2. It is recommended to only download specific files of interest. For example, to download the proving key `zkLogin.zkey`, run `download-zkey.sh`. That script can be used as an example to similarly download other files.
 
 ## Contributions format
 
