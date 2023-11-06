@@ -6,7 +6,7 @@ This repository enlists all trusted Groth16 Zero Knowledge Proof (ZKP) ceremony 
 
 1. Install [git-lfs](https://git-lfs.com/) to download any large file.
 
-2. It is recommended to only download specific files of interest. For example, to download the proving key `zkLogin.zkey`, run `download-zkey.sh`. That script can be used as an example to similarly download other files.
+2. It is recommended to only download specific files of interest. For example, to download the mainnet proving key `zkLogin-main.zkey`, run `download-main-zkey.sh`. Similarly, to download the devnet zkey `zkLogin-test.zkey`, run `download-test-zkey.sh`. These scripts can be used as an example to similarly download specific files of interest.
 
 ## Contributions format
 
