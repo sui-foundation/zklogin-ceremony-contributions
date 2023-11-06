@@ -7,3 +7,4 @@ phase2/circuit.r1cs filter=lfs diff=lfs merge=lfs -text
 phase2/initial.zkey filter=lfs diff=lfs merge=lfs -text
 phase2/*.params filter=lfs diff=lfs merge=lfs -text
 phase2/final.zkey filter=lfs diff=lfs merge=lfs -text
+*.zkey filter=lfs diff=lfs merge=lfs -text
