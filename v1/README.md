@@ -10,7 +10,7 @@ This repository enlists all trusted Groth16 Zero Knowledge Proof (ZKP) ceremony 
 
 ## Contributions format
 
-We adopted [challenge #0081](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) (resulting from 80 community contributions) from [perpetual powers of tau](https://github.com/privacy-scaling-explorations/perpetualpowersoftau/tree/master/0080_carter_response) in phase 1, which is circuit agnostic.
+We adopted [challenge #0081](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) (the output of contribution 0080; its chain has 61 community contributions, 0001 to 0058 and 0078 to 0080, because the chain forks after 0058) from [perpetual powers of tau](https://github.com/privacy-scaling-explorations/perpetualpowersoftau/tree/master/0080_carter_response) in phase 1, which is circuit agnostic.
 We applied the output of drand #3298000 to remove bias.
 
 For phase 2, we ran a ceremony during Sep 12-18, 2023.
