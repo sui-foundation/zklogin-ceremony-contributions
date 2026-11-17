@@ -1,7 +1,7 @@
 # Phase 1 Transparency
 
 ## Reduce perpetual powers of tau to smaller size
-We adopt [challenge #0081](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) (resulting from 80 community contributions) from [perpetual powers of tau](https://github.com/privacy-scaling-explorations/perpetualpowersoftau/tree/master/0080_carter_response) in phase 1.
+We adopt [challenge #0081](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) (the output of contribution 0080; its chain has 61 community contributions, 0001 to 0058 and 0078 to 0080, because the chain forks after 0058) from [perpetual powers of tau](https://github.com/privacy-scaling-explorations/perpetualpowersoftau/tree/master/0080_carter_response) in phase 1.
 Use the [modified Kobi's implementation](https://github.com/MystenLabs/phase2-bn254) to reduce the perpetual powers of tau to the order of 20 and reproduce challenge_0081_reduced_20:
 ```bash
 git clone https://github.com/MystenLabs/phase2-bn254.git
